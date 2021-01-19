@@ -24,7 +24,7 @@
   <name>Sandbox</name>
   <copyright>2020</copyright>
   <initialWindow>
-    <content>META-INF\AIR\version.xml</content>
+    <content>Sandbox.swf</content>
     <systemChrome>standard</systemChrome>
     <transparent>false</transparent>
     <visible>true</visible>
@@ -33,7 +33,7 @@
     <renderMode>auto</renderMode>
     <maximizable>true</maximizable>
     <minimizable>true</minimizable>
-    <resizable>true</resizable>
+    <resizable>false</resizable>
   </initialWindow>
   <icon>
     <image16x16>icons/SBX16.png</image16x16>
